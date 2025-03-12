@@ -1,7 +1,7 @@
 # AI-Job-Salary-Prediction-Analysis
 A machine learning project to analyze and predict salaries in AI-related jobs based on various factors such as experience, education, location, and skills.
 
-Features
+<h2>Features</h2>
 
 Data preprocessing and cleaning
 
@@ -13,7 +13,7 @@ Model training and evaluation
 
 Salary prediction and insights visualization
 
-Installation
+<h2>Installation</h2>
 
 Clone the repository:
 
@@ -27,7 +27,7 @@ Install dependencies:
 
 pip install -r requirements.txt
 
-Usage
+<h2>Usage</h2>
 
 Run the analysis using:
 
@@ -35,7 +35,7 @@ python main.py
 
 Follow the on-screen instructions to preprocess data, train models, and generate predictions.
 
-How It Works
+<h2>How It Works</h2>
 
 Load and preprocess the AI job salary dataset.
 
@@ -47,7 +47,7 @@ Evaluate model performance using metrics like RMSE, MAE, and R².
 
 Predict salary ranges based on input features such as job title, experience, location, and education level.
 
-Technologies Used
+<h2>Technologies Used</h2>
 
 Python
 
